@@ -1,4 +1,4 @@
-#include <stdio.h>gate
+#include <stdio.h>
 int main()
 {
     int a[] = {11, 12, 13, 14, 15};

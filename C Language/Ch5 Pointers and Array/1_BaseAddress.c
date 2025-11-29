@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>gate
 int main(){
     int a []={11,12,13,14,15};
     //&a[1]=100; Address cannot be assigned manually

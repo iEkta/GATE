@@ -7,3 +7,5 @@ int main(){
     printf("%ld %d\n", ptr-p, **ptr);      //72
     return 0;
 }
+// Output:
+// 3 72

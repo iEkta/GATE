@@ -6,5 +6,11 @@ int main(){
     name= getchar();//Takes a single character input from console
     printf("Hello, %c!\n", name);
     putchar(name);// Prints a single character to console
+    putchar(name+1);
     return 0;
 }
+// Output:
+// Enter your name:
+// Ekta
+// Hello, E!
+// EF (Does not print new line after E)
